@@ -1,4 +1,4 @@
-# Appreciation-Daily
+# Appreciation-Today
 This is a desktop app written in Python. The goal of this program is to encourage people to list three things they are thankful for daily. The feeling of gratitude can lead to feeling more positive emotions and having better overall health.
 
 This program has been written using the import of tkinter, tkcalendar, and sqlite3. When the code is run, the UI of a calendar appears with each day being selectable.
